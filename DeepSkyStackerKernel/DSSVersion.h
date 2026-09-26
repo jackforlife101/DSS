@@ -4,7 +4,7 @@
 
 #ifdef DSSBETA
 #define DSSBETARELEASE 3
-constexpr int DSSBETAEXPIREYEAR = 2026;
+constexpr int DSSBETAEXPIREYEAR = 2099;	// jack/main: local dev build, never expire
 constexpr int DSSBETAEXPIREMONTH = 9;
 #endif
 
